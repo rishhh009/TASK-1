@@ -1,6 +1,6 @@
 # Codsoft Internship Projects
 
-This repository contains three projects completed during my internship at Codsoft. These projects demonstrate my proficiency in Java programming and my ability to develop practical applications.
+This repository contains three projects completed during my internship at Codsoft.
 
 ## Projects:
 
